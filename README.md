@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NanditaMahapatra
-- 👀 I’m interested in JavaScript, ReactJS, Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in JavaScript, ReactJS, NextJS
+- 🌱 I’m currently learning NextJs
+- 📫 Reach me by linkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: i'm hyperextendable
 
