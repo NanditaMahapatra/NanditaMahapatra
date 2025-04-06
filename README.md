@@ -19,13 +19,19 @@ Currently, I’m on the journey to expand my horizons into exploring more throug
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux Thunk](https://img.shields.io/badge/-Redux%20Thunk-593D88?style=flat&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=mui&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+
 <!--
 ---
 
@@ -44,7 +50,7 @@ Currently, I’m on the journey to expand my horizons into exploring more throug
 ## ✨ GitHub Stats
 
 ![Nandita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanditaMahapatra&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanditaMahapatra&layout=compact&theme=tokyonight)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanditaMahapatra&layout=compact&theme=tokyonight) --->
 
 ---
 
