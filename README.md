@@ -53,10 +53,9 @@ Currently, I’m on the journey to expand my horizons into exploring more throug
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanditaMahapatra&layout=compact&theme=tokyonight) --->
 
 ---
+## 📊 LeetCode Contribution Streak
 
-## 🧠 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nanditamahapatra07?theme=dark&font=Karma)](https://leetcode.com/u/nanditamahapatra07/)
+![LeetCode Streak](https://leet-streak-stats.vercel.app/?user=nanditamahapatra07)
 <!--
 ---
 
