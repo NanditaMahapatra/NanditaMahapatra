@@ -43,8 +43,8 @@ Currently, I’m on the journey to expand my horizons into exploring more throug
 
 ## ✨ GitHub Stats
 
-![Nandita's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Nandita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanditaMahapatra&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanditaMahapatra&layout=compact&theme=tokyonight)
 
 ---
 
