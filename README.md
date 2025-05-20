@@ -50,7 +50,7 @@ Currently, I’m on the journey to expand my horizons into exploring more throug
 ## ✨ GitHub Stats
 
 ![Nandita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanditaMahapatra&show_icons=true&theme=tokyonight)
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanditaMahapatra&layout=compact&theme=tokyonight) --->
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanditaMahapatra&layout=compact&theme=tokyonight) 
 
 ---
 ## 🧠 LeetCode Stats
@@ -60,8 +60,8 @@ Currently, I’m on the journey to expand my horizons into exploring more throug
 ## 📊 LeetCode Contribution Streak
 
 ![LeetCode Streak](https://leet-streak-stats.vercel.app/?user=nanditamahapatra07&theme=dark&border_radius=5)
---->
-<!--
+
+
 ---
 
 ## 📝 I Also Write on Medium
