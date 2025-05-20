@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Nandita Mahapatra!
+# Hi there, I'm Nandita Mahapatra!
 
-I'm a passionate **Frontend Developer** with a love for clean UI, performance-driven apps, and crafting delightful user experiences which tell a story. 
+I'm a **Frontend Developer** with a love for clean UI, performance-driven apps, and crafting delightful user experiences which tell a story. 
 Currently, I’m on the journey to expand my horizons into exploring more through Next.js, exploring the depths of JavaScript, React, and backend technologies.
 
 ---
