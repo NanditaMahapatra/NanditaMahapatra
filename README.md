@@ -44,7 +44,7 @@ Currently, I’m on the journey to expand my horizons into exploring more throug
 ### 🔹 [Project Name](https://github.com/your-username/project-repo)
 > Another project highlight here.  
 > 🌐 Tech Used: HTML, CSS, JavaScript
---->
+
 ---
 
 ## ✨ GitHub Stats
@@ -60,7 +60,7 @@ Currently, I’m on the journey to expand my horizons into exploring more throug
 ## 📊 LeetCode Contribution Streak
 
 ![LeetCode Streak](https://leet-streak-stats.vercel.app/?user=nanditamahapatra07&theme=dark&border_radius=5)
-
+--->
 <!--
 ---
 
