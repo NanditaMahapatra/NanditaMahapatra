@@ -1,17 +1,15 @@
 # Hi there, I'm Nandita Mahapatra!
 
-I'm a **Frontend Developer** with a love for clean UI, performance-driven apps, and crafting delightful user experiences which tell a story. 
-Currently, I’m on the journey to expand my horizons into exploring more through Next.js, exploring the depths of JavaScript, React, and backend technologies.
+I'm a **Fullstack Developer** with a love for clean UI, performance-driven apps, and crafting delightful user experiences which tell a story. 
+Currently, I’m on the journey to expand my horizons into exploring more on Java backend, learning the Spring framework and creating projects.
 
 ---
 
 ## 🔭 What I'm Currently Up To
 
-- 🚀 Mastering React 18+ and performance optimization techniques
+- 🚀 Learning Spring, Spring Boot, REST, Docker and Microservices
 - 🔁 Practicing DSA regularly for SDE interviews
-- 🧠 Diving deeper into Redux, Debugging, and clean architecture
-- 🛠️ Exploring SSR with Next.js
-
+- 🧠 Diving into System Design for clean architecture building
 ---
 
 ## 🧰 Tech Stack & Tools
