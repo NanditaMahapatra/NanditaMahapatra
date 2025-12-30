@@ -51,6 +51,7 @@ Currently, I’m on the journey to expand my horizons into exploring more on Jav
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanditaMahapatra&layout=compact&theme=tokyonight) 
 
 ---
+--->
 ## 🧠 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nanditamahapatra07?theme=dark&font=Karma)](https://leetcode.com/u/nanditamahapatra07/)
@@ -61,15 +62,15 @@ Currently, I’m on the journey to expand my horizons into exploring more on Jav
 
 
 ---
-
+<!--
 ## 📝 I Also Write on Medium
 
 I love turning complex tech topics into easy-to-understand stories.
 
 - ✍️ [My Medium Articles](https://medium.com/@your-medium-username)
---->
----
 
+---
+--->
 ## 🎨 Fun Side of Me
 
 When I’m not coding, you’ll find me:
